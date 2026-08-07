@@ -9,6 +9,7 @@ Itch might be slightly behind. Source is where the fresh ketchup lives.
 ## Versions (for people who enjoy suffering in multiple formats)
 
 ### MakeCode
+#### Stable v3.0: https://arcade.makecode.com/S42026-14573-38414-48009
 #### Stable v7.3.0: https://github.com/EthanIchiro/Hot_Dog_Game/releases/tag/v7.3.0
 #### Stable v5.2: https://github.com/EthanIchiro/Hot_Dog_Game/releases/tag/v5.2
 #### Beta v8.0.0: https://github.com/EthanIchiro/Hot_Dog_Game/releases/tag/v8.0.0
