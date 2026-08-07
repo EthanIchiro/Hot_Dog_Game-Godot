@@ -1,3 +1,11 @@
+# ▶️ How to Run
+1. Install [Godot 4.7+](https://godotengine.org/download)
+2. Download this repo (**Code → Download ZIP**) or clone it
+3. In Godot: **Import** → select this project folder
+4. Open the folder that contains `project.godot`
+5. Press **F5**
+6. Immediately make a terrible decision
+
 # 🌭 Hot Dog Cannon v8.0
 
 ## The world's most advanced hot dog transportation technology.
