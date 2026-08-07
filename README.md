@@ -2,6 +2,18 @@
 
 #### You can also check out the game here: https://ethanichiro.itch.io/areallyweirdhotdoggame v2.2
 
+## Versions:
+
+### MakeCode:
+
+MakeCode Stable v7.3.0: https://github.com/EthanIchiro/Hot_Dog_Game/releases/tag/v7.3.0
+MakeCode Stable v5.2: https://github.com/EthanIchiro/Hot_Dog_Game/releases/tag/v5.2
+MakeCode Beta v8.0.0: https://github.com/EthanIchiro/Hot_Dog_Game/releases/tag/v8.0.0
+
+### Godot:
+
+Itch.io Stable 2.2 - Source code based on v7.3.0: https://ethanichiro.itch.io/areallyweirdhotdoggame
+
 # ▶️ How to Run
 1. Install [Godot 4.7+](https://godotengine.org/download)
 2. Download this repo (**Code → Download ZIP**) or clone it
