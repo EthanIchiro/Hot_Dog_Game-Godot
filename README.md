@@ -1,6 +1,6 @@
 # Direct Click to play links:
 
-#### You can also check out the game here: https://ethanichiro.itch.io/areallyweirdhotdoggame
+#### You can also check out the game here: https://ethanichiro.itch.io/areallyweirdhotdoggame v2.2
 
 # ▶️ How to Run
 1. Install [Godot 4.7+](https://godotengine.org/download)
@@ -10,7 +10,7 @@
 5. Press **F5**
 6. Immediately make a terrible decision
 
-# 🌭 Hot Dog Cannon v8.0
+# 🌭 Hot Dog Cannon v8.4
 
 ## The world's most advanced hot dog transportation technology.
 
