@@ -18,6 +18,8 @@ Itch might be slightly behind. Source is where the fresh ketchup lives
 ### Godot
 #### itch.io: https://ethanichiro.itch.io/areallyweirdhotdoggame (v2.2)
 #### this repo: v2.2 (achievements that actually remember you existed)
+#### Downloadable (Windows 64 bit): https://github.com/EthanIchiro/Hot_Dog_Game-Windows/
+#### Note that Downloadable only supports windows and only has the beta version. We are sorry for the inconvenience. 
 
 Original MakeCode chaos museum: https://github.com/EthanIchiro/Hot_Dog_Game/
 
