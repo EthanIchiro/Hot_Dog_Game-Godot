@@ -4,7 +4,7 @@
 
 **This repo:** Godot source (**v2.2 — more ways to humiliate yourself, now with saving**)
 
-Itch might be slightly behind. Source is where the fresh ketchup lives.
+Itch might be slightly behind. Source is where the fresh ketchup lives
 
 ## Versions (for people who enjoy suffering in multiple formats)
 
