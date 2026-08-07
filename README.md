@@ -1,3 +1,7 @@
+# Direct Click to play links:
+
+#### You can also check out the game here: https://ethanichiro.itch.io/areallyweirdhotdoggame
+
 # ▶️ How to Run
 1. Install [Godot 4.7+](https://godotengine.org/download)
 2. Download this repo (**Code → Download ZIP**) or clone it
