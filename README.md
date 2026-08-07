@@ -4,11 +4,15 @@
 
 **This repo:** Godot source (**v2.2 — more ways to humiliate yourself, now with saving**)
 
-Itch might be slightly behind. Source is where the fresh ketchup lives
+Itch might be slightly behind. Source is where the fresh ketchup lives.
+
+**Windows download:** https://github.com/EthanIchiro/Hot_Dog_Game-Windows/releases/latest
+
+---
 
 ## Versions (for people who enjoy suffering in multiple formats)
 
-### MakeCode 
+### MakeCode
 #### Stable v3.0: https://arcade.makecode.com/S42026-14573-38414-48009
 #### Stable v7.3.0: https://github.com/EthanIchiro/Hot_Dog_Game/releases/tag/v7.3.0
 #### Stable v5.2: https://github.com/EthanIchiro/Hot_Dog_Game/releases/tag/v5.2
@@ -18,8 +22,10 @@ Itch might be slightly behind. Source is where the fresh ketchup lives
 ### Godot
 #### itch.io: https://ethanichiro.itch.io/areallyweirdhotdoggame (v2.2)
 #### this repo: v2.2 (achievements that actually remember you existed)
+#### Beta v3.0 (THE beta — title screen, easier bonus dogs, spicier 404): in this source line / Windows builds
 #### Downloadable (Windows 64 bit): https://github.com/EthanIchiro/Hot_Dog_Game-Windows/
-#### Note that Downloadable only supports windows and only has the beta version. We are sorry for the inconvenience. 
+#### Note that Downloadable only supports Windows and only has the beta version (v3.0). We are sorry for the inconvenience.
+#### Note that Godot **v2.2** is the main current version. **v3.0** is THE beta. Do not confuse beta v3.0 with MakeCode stable v3.0. Different engines. Different lunch.
 
 Original MakeCode chaos museum: https://github.com/EthanIchiro/Hot_Dog_Game/
 
@@ -84,6 +90,13 @@ If that sounds like a design mistake: correct.
 - ✅ Ways to win without dignity
 - ✅ Ways to lose with too much dignity for the situation
 
+### Also note (v3.0 — THE beta)
+If you are on **v3.0 beta** (including the Windows download right now):
+- ✅ Title screen before the chaos
+- ✅ Bonus dog ladder eased to **1 → 3 → 5 → 10**
+- ✅ 404 is spicier (**~3% per second** while alive)
+- ✅ In-game title: **The Funny Hot Dog Game v3.0 Beta**
+
 # 🐕 Hot Dog Storm™
 
 Sometimes your hot dog hits the cannon.
@@ -111,6 +124,8 @@ The enemy has discovered the true power of bugs.
 
 In this build the 404 is its **own** glory.  
 No free "I totally sniped that" credit. Nice try.
+
+#### Note that on **v2.2** the 404 is still the tiny rare one. On **v3.0 beta** it is about 3% per second. Beta means beta.
 
 # 🏆 Achievements
 
@@ -154,6 +169,8 @@ Some need you to make the worst possible decision on purpose.
 - 🫃 Stuffed & Ended — die holding 10+ bonus dogs. iconic final meal.
 - 🔧 Multitool — yeet + storm + sticky + win in one run
 - ⭐ All Done — touch grass afterward maybe
+
+#### Note that bonus dog numbers are harder on **v2.2** and easier on **v3.0 beta** (1/3/5/10). Same achievement ids. Different amounts of suffering.
 
 Progress saves to `user://hotdog_cannon_achs.cfg`  
 Closing the game will not wash the ketchup out.
