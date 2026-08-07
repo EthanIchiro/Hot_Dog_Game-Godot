@@ -8,11 +8,12 @@ Itch might be slightly behind. Source is where the fresh ketchup lives.
 
 ## Versions (for people who enjoy suffering in multiple formats)
 
-### MakeCode
+### MakeCode 
 #### Stable v3.0: https://arcade.makecode.com/S42026-14573-38414-48009
 #### Stable v7.3.0: https://github.com/EthanIchiro/Hot_Dog_Game/releases/tag/v7.3.0
 #### Stable v5.2: https://github.com/EthanIchiro/Hot_Dog_Game/releases/tag/v5.2
 #### Beta v8.0.0: https://github.com/EthanIchiro/Hot_Dog_Game/releases/tag/v8.0.0
+#### Note that MakeCode projects have stopped development due to engine constraints. Note that new versions will still be developed but are only shipped to Godot.
 
 ### Godot
 #### itch.io: https://ethanichiro.itch.io/areallyweirdhotdoggame (v2.2)
