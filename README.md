@@ -85,7 +85,7 @@ If that sounds like a design mistake: correct.
 - ✅ **29 achievements** because 12 was not enough self-own content
 - ✅ Achievements **save to disk** (your shame is persistent)
 - ✅ Win/lose run summary (shots, bonus dogs, storms, time, cause of death/lunch)
-- ✅ A ~0.09% chance the enemy experiences a software failure
+- ✅ A ~1% chance the enemy experiences a software failure
 - ✅ A completely unnecessary 404 Error ending
 - ✅ Ways to win without dignity
 - ✅ Ways to lose with too much dignity for the situation
@@ -94,7 +94,7 @@ If that sounds like a design mistake: correct.
 If you are on **v3.0 beta** (including the Windows download right now):
 - ✅ Title screen before the chaos
 - ✅ Bonus dog ladder eased to **1 → 3 → 5 → 10**
-- ✅ 404 is spicier (**~3% per second** while alive)
+- ✅ 404 is spicier (**~1% per second** while alive)
 - ✅ In-game title: **The Funny Hot Dog Game v3.0 Beta**
 
 # 🐕 Hot Dog Storm™
@@ -125,7 +125,7 @@ The enemy has discovered the true power of bugs.
 In this build the 404 is its **own** glory.  
 No free "I totally sniped that" credit. Nice try.
 
-#### Note that on **v2.2** the 404 is still the tiny rare one. On **v3.0 beta** it is about 3% per second. Beta means beta.
+#### Note that on **v2.2** the 404 is still the tiny rare one. On **v3.0 beta** it is about 1% per second. Beta means beta.
 
 # 🏆 Achievements
 
