@@ -1,21 +1,28 @@
-# Direct Click to play links:
+# Click this or stay hungry
 
-#### You can also check out the game here: https://ethanichiro.itch.io/areallyweirdhotdoggame v2.2
+**Play:** https://ethanichiro.itch.io/areallyweirdhotdoggame
 
-## Versions:
+**This repo:** Godot source (**v2.2 — more ways to humiliate yourself, now with saving**)
 
-### MakeCode:
+Itch might be slightly behind. Source is where the fresh ketchup lives.
 
-#### MakeCode Stable v7.3.0: https://github.com/EthanIchiro/Hot_Dog_Game/releases/tag/v7.3.0
-#### MakeCode Stable v5.2: https://github.com/EthanIchiro/Hot_Dog_Game/releases/tag/v5.2
-#### MakeCode Beta v8.0.0: https://github.com/EthanIchiro/Hot_Dog_Game/releases/tag/v8.0.0
+## Versions (for people who enjoy suffering in multiple formats)
 
-### Godot:
+### MakeCode
+#### Stable v7.3.0: https://github.com/EthanIchiro/Hot_Dog_Game/releases/tag/v7.3.0
+#### Stable v5.2: https://github.com/EthanIchiro/Hot_Dog_Game/releases/tag/v5.2
+#### Beta v8.0.0: https://github.com/EthanIchiro/Hot_Dog_Game/releases/tag/v8.0.0
 
-#### Itch.io Stable 2.2 - Source code based on v7.3.0: https://ethanichiro.itch.io/areallyweirdhotdoggame
+### Godot
+#### itch.io: https://ethanichiro.itch.io/areallyweirdhotdoggame (v2.2)
+#### this repo: v2.2 (achievements that actually remember you existed)
+
+Original MakeCode chaos museum: https://github.com/EthanIchiro/Hot_Dog_Game/
+
+---
 
 # ▶️ How to Run
-1. Install [Godot 4.7+](https://godotengine.org/download)
+1. Install [Godot 4.x](https://godotengine.org/download)
 2. Download this repo (**Code → Download ZIP**) or clone it
 3. In Godot: **Import** → select this project folder
 4. Open the folder that contains `project.godot`
@@ -39,7 +46,9 @@ Your mission:
 3. Shoot the enemy.
 4. Accidentally shoot the hot dog.
 5. Accidentally shoot yourself.
-6. Watch everything go horribly wrong.
+6. Unlock an achievement for that.
+7. Watch everything go horribly wrong.
+8. Do it again, but faster.
 
 Simple.
 
@@ -50,7 +59,10 @@ Simple.
 | WASD / Arrow Keys | Move yourself, the hot dog, and somehow your bullets |
 | Space | Fire the cannon |
 | R | Restart the chaos |
-| Enter | View achievements |
+| Enter / Esc | Stare at all the achievements you don't have |
+
+One stick moves lunch AND ammunition.  
+If that sounds like a design mistake: correct.
 
 # ✨ Features
 
@@ -60,9 +72,13 @@ Simple.
 - ✅ Cannon malfunctions
 - ✅ Ketchup disasters
 - ✅ Hot Dog Storm™
-- ✅ 12 achievements to collect
-- ✅ A 0.09% chance of the enemy experiencing a software failure
+- ✅ **29 achievements** because 12 was not enough self-own content
+- ✅ Achievements **save to disk** (your shame is persistent)
+- ✅ Win/lose run summary (shots, bonus dogs, storms, time, cause of death/lunch)
+- ✅ A ~0.09% chance the enemy experiences a software failure
 - ✅ A completely unnecessary 404 Error ending
+- ✅ Ways to win without dignity
+- ✅ Ways to lose with too much dignity for the situation
 
 # 🐕 Hot Dog Storm™
 
@@ -76,6 +92,9 @@ Then the sky fills with bonus hot dogs.
 
 This is normal engineering.
 
+Pro tip: eating zero of them is also an achievement.  
+We reward both greed and spiritual emptiness.
+
 # 👾 The 404 Event
 
 There is a tiny chance the enemy says:
@@ -86,10 +105,18 @@ and completely gives up.
 
 The enemy has discovered the true power of bugs.
 
+In this build the 404 is its **own** glory.  
+No free "I totally sniped that" credit. Nice try.
+
 # 🏆 Achievements
 
 Can you unlock them all?
 
+Some need skill.  
+Some need luck.  
+Some need you to make the worst possible decision on purpose.
+
+### The classics
 - 🌭 Ate It
 - 🎯 Shot Em
 - 🚀 Yeeted
@@ -101,7 +128,31 @@ Can you unlock them all?
 - 🍴 Oops Lunch
 - 😭 Stolen
 - 🫠 Sticky
-- ⭐ All Done
+
+### The "I lived here now" ones
+- ⭐ First Extra
+- 📚 Snack Stack
+- 🔟 Double Digits
+- ☢️ I Am Become Lunch
+- ☠️ Storm Fatality
+- 🚫 Enemy Is Not Food
+- 🔊 KEPLEUY
+- 📣 KEPLEUY Choir
+- ⏱ Still Standing
+- 🧾 404 Lunch
+
+### The "why did I add these" ones
+- 🍽️ Clean Plate — win by eating, never shot once
+- ⚡ Speed Lunch — win in under 15 seconds
+- ☂️ Rain Check — survive a whole storm and touch nothing. monk mode.
+- 🌀 Storm Chaser — 3 storms, one life, no therapist
+- 🛠️ Become The Gun — cannon dies, you still eat lunch like a champion
+- 🫃 Stuffed & Ended — die holding 10+ bonus dogs. iconic final meal.
+- 🔧 Multitool — yeet + storm + sticky + win in one run
+- ⭐ All Done — touch grass afterward maybe
+
+Progress saves to `user://hotdog_cannon_achs.cfg`  
+Closing the game will not wash the ketchup out.
 
 # 🛠 Built With
 
@@ -109,6 +160,7 @@ Can you unlock them all?
 - GDScript
 - Questionable decisions
 - Too many hot dogs
+- One (1) cannon with union issues
 
 # 📜 Development History
 
@@ -130,6 +182,8 @@ This game contains:
 - flying food
 - a cannon that may betray you
 - an enemy smarter than expected (sometimes)
+- an enemy dumber than expected (the other times)
+- achievements for things your parents would not put on the fridge
 
 Play responsibly.
 
