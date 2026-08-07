@@ -10,7 +10,7 @@
 5. Press **F5**
 6. Immediately make a terrible decision
 
-# 🌭 Hot Dog Cannon v8.4
+# 🌭 Hot Dog Cannon v2.2
 
 ## The world's most advanced hot dog transportation technology.
 
